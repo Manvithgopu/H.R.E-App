@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "669945028153",
+    "firebase_url": "https://hre-practice-default-rtdb.firebaseio.com",
+    "project_id": "hre-practice",
+    "storage_bucket": "hre-practice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669945028153:android:1aa726156c2ce62024f7e8",
+        "android_client_info": {
+          "package_name": "com.example.hrepracticemodel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669945028153-b26994b080prt7qeukq4ggsq8l6n7opg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHOzkzpqip5rX8QFlilqpc90Ez3f2mAJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669945028153-b26994b080prt7qeukq4ggsq8l6n7opg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669945028153:android:d51c8337b22f35ca24f7e8",
+        "android_client_info": {
+          "package_name": "com.example.newvideorecording"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669945028153-b26994b080prt7qeukq4ggsq8l6n7opg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHOzkzpqip5rX8QFlilqpc90Ez3f2mAJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669945028153-b26994b080prt7qeukq4ggsq8l6n7opg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
